@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Icons"
+   viewBox="0 0 16 16"
+   version="1.1"
+   sodipodi:docname="Dashboards.svg"
+   inkscape:export-filename="X:\Apps\ThumbnailEditor\icons\Dashboards.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="31.0625"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1912"
+     inkscape:window-y="305"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icons" />
+  <defs
+     id="defs26">
+    <style
+       id="style24">.cls-1{fill:#d9bf2b}.cls-2{fill:none}</style>
+  </defs>
+  <title
+     id="title28">dashboard16</title>
+  <path
+     class="cls-1"
+     d="M12 8h3v5h-3zM8 2h3v11H8zM4 5h3v8H4z"
+     id="path30" />
+  <path
+     class="cls-1"
+     d="M2 14v-3h1v-1H2V7h1V6H2V3h1V2H1v13h14v-1z"
+     id="path32" />
+  <path
+     class="cls-2"
+     d="M0 0h16v16H0z"
+     id="path34" />
+  <metadata
+     id="metadata159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>dashboard16</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

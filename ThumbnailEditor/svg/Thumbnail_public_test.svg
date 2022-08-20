@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\c10786\bgimage.png"
+   inkscape:export-xdpi="100.01769"
+   inkscape:export-ydpi="100.01769"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Thumbnail_public_test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="1779.8413"
+     inkscape:cy="778.20836"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1891.0139"
+       y="73.395518"
+       width="1601.7492"
+       height="304.37551"
+       id="rect23375" />
+    <rect
+       x="82.030285"
+       y="1161.3761"
+       width="1636.2883"
+       height="259.043"
+       id="rect18937" />
+    <rect
+       x="522.40339"
+       y="146.79104"
+       width="932.55481"
+       height="280.62993"
+       id="rect12889" />
+    <rect
+       x="876.42883"
+       y="509.45124"
+       width="626.02059"
+       height="142.47365"
+       id="rect8667" />
+    <rect
+       x="170.53664"
+       y="243.93216"
+       width="1152.7414"
+       height="718.84434"
+       id="rect1861" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="604.52002"
+       height="404.62201"
+       preserveAspectRatio="none"
+       xlink:href="../../../../bgimage.png"
+       id="BACKGROUND"
+       x="-1.2619298"
+       y="-2.40716"
+       inkscape:svg-dpi="1" />
+    <rect
+       style="fill:#808080;stroke:none;stroke-width:0.132292;paint-order:fill markers stroke"
+       id="rect5115"
+       width="124.63116"
+       height="404.49945"
+       x="478.62692"
+       y="-2.40716" />
+    <rect
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.144257;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect5115-2"
+       width="124.61919"
+       height="481.02209"
+       x="277.4671"
+       y="-478.62094"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.132292;paint-order:fill markers stroke"
+       id="path6281"
+       cx="67.396149"
+       cy="65.111534"
+       r="47.976925" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,36.553846,-1.1423077)"
+       id="text8665"
+       style="font-size:85.3333px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect8667)"
+       x="84.791634"
+       y="0"><tspan
+         x="1104.3562"
+         y="586.31552"
+         id="tspan32866"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Segoe UI Bold';text-align:center;text-anchor:middle"
+           id="tspan32864">Year</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-34.26923,-12.565385)"
+       id="text12887"
+       style="font-size:192px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect12889)"
+       x="102.36328"
+       y="0"><tspan
+         x="641.41585"
+         y="319.73586"
+         id="tspan32870"><tspan
+           style="font-style:italic;font-weight:bold;font-size:74.6667px;-inkscape-font-specification:'Segoe UI Bold Italic';text-align:center;text-anchor:middle"
+           id="tspan32868">Organization Name</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text18935"
+       style="font-size:192px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect18937)"
+       x="240.89062"
+       y="0"><tspan
+         x="632.7998"
+         y="1334.3218"
+         id="tspan32874"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Segoe UI Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan32872">Name</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458333,-0.26458333,0,593.83932,-550.51059)"
+       id="text23373"
+       style="font-size:192px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect23375)"
+       x="50.337891"
+       y="0"><tspan
+         x="2276.5293"
+         y="246.34133"
+         id="tspan32878"><tspan
+           style="text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan32876">Item Type</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Icons"
+   viewBox="0 0 16 16"
+   version="1.1"
+   sodipodi:docname="featurelayer.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="X:\Apps\ThumbnailEditor\icons\agolfeaturelayer.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.490485"
+     inkscape:cx="23.628245"
+     inkscape:cy="22.496874"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2638"
+     inkscape:window-y="111"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icons" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none}.cls-2{fill:#e5d255}.cls-3{fill:#f8f8f8}.cls-4{fill:#c7552e}.cls-5{fill:#e5a894}.cls-6{fill:#c96b4b}</style>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2738">
+      <path
+         style="fill:#f6771a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.163892,16.154671 3.045999,4.177368 3.024241,-2.219227 -2.730521,-3.79662 -3.100391,1.794964"
+         id="path2740"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+  </defs>
+  <title
+     id="title6">layerFeatures_16</title>
+  <path
+     class="cls-1"
+     d="M0 0h16v16H0z"
+     id="path8"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <path
+     class="cls-2"
+     d="M16 14.4s-3.2-1.6-8 0-8 0-8 0L2.133 1.6A9.762 9.762 0 0 0 8 1.6a9.762 9.762 0 0 1 5.867 0z"
+     id="path10"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <path
+     class="cls-3"
+     d="M12 3a4.103 4.103 0 0 0-.436-1.837A7.914 7.914 0 0 0 8 1.6a8.162 8.162 0 0 1-3.872.405A4.283 4.283 0 0 0 4 3v4a1 1 0 0 0 .293.707l3 3a1 1 0 0 0 1.414 0l3-3A1 1 0 0 0 12 7z"
+     id="path12"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <path
+     class="cls-4"
+     d="M11 3a2.893 2.893 0 0 0-3-3 2.893 2.893 0 0 0-3 3v4l3 3 3-3z"
+     id="path14"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <path
+     class="cls-5"
+     d="M6 6.586V3a1.893 1.893 0 0 1 2-2 1.893 1.893 0 0 1 2 2v3.586l-2 2z"
+     id="path16"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <path
+     class="cls-6"
+     d="M8 2v5.172l1-1V3a.902.902 0 0 0-1-1z"
+     id="path18"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <circle
+     class="cls-3"
+     cx="8"
+     cy="3"
+     r="1.25"
+     id="circle20"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <circle
+     class="cls-3"
+     cx="8"
+     cy="3"
+     r="1.25"
+     id="circle22"
+     inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\icons\featurelayer.png"
+     inkscape:export-xdpi="2519.6763"
+     inkscape:export-ydpi="2519.6763" />
+  <metadata
+     id="metadata127">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>layerFeatures_16</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g2824"
+     transform="matrix(0.72138341,0,0,0.72138341,0.88421069,1.2007669)">
+    <circle
+       style="fill:#faa42b;fill-opacity:1;stroke-width:0;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path353-9"
+       r="4.0615382"
+       cy="15.867911"
+       cx="16.137358" />
+    <circle
+       style="fill:#f7791b;fill-opacity:1;stroke-width:0;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path353"
+       r="4.0615382"
+       cy="15.876923"
+       cx="16.123077"
+       clip-path="url(#clipPath2738)" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path1290"
+       cx="17.014076"
+       cy="14.533764"
+       r="0.52217114" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path1290-8"
+       cx="14.622449"
+       cy="15.926222"
+       r="0.52217114" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path1290-7"
+       cx="17.05759"
+       cy="17.05759"
+       r="0.52217114" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.664306,15.969735 2.523827,-1.523"
+       id="path1563" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.316192,15.665135 2.915455,1.544756"
+       id="path1563-3"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

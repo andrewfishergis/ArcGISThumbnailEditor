@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArcGIS Portal Thumnail Creator</title>
+    <link rel="stylesheet" href="./style/main.css?v=2">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/canvg/3.0.10/umd.js" integrity="sha512-XzD6JvbRszCVIgiNU2pgCFnCtHmgu5sDydUMFNeuNkWKCccMYTJLxbe0r+PG4QNeDx7NMcrPWmztn185dHPLPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js" integrity="sha512-V6rhYmJy8NZQF8F0bhJiTM0iI6wX/FKJoWvYrCM15UIeb6p38HjvTZWfO0IxJnMZrHWUJZJqLuWK0zslra2FVw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="js/app.js?v=9"></script>
+</head>
+<body>
+    <div id="header">
+        <div id="choose_template">Choose Template...</div>
+        <div id="title">ArcGIS Portal Thumnail Creator</div>
+        <div id="github">
+            <div>Github</div>
+        </div>
+    </div>
+    <!--Comment out intro-modal section if you do not wish to have it at start up-->
+    <div id="intro-modal">
+        <div id="modal-content">
+            <div id="welcome">Welcome to the Yavapai County Thumbnail Editor Application!</div>
+            <div id="instructions">
+                This application can be used to generate functional, stylish, and clean Thumbnails for ArcGIS Online and Portal items. You can utilize this application and the templates provided, or you can visit my <a href="https://github.com/andrewfishergis/ArcGISThumbnailEditor" target="_blank">github</a> to download the source code yourself! <b>Please start by selecting a template below!</b>
+            </div>
+            <div id="choose_template_modal">
+                <script src="js/getTemplates.js" type="text/javascript">
+                </script>
+            </div>
+        </div>
+    </div>    
+   
+    <div id="content">
+        <div id="options">
+            <div class="subhead">1. Template Options</div>
+            
+            <div id="bg_container">
+                Choose Background Image...
+                <div id="custom_bg">
+                    <div><span>Choose Background Image</span></div>
+                    <div>
+                        <img src="/images/down-arrow-icon.png">
+                    </div>
+                </div>
+                <div id="bg_chooser">
+                    
+                </div>
+                <div class="input_container">
+                    <div>Or upload background image</div><input type="file" id="upload_image"></input>
+                </div>
+            </div>
+            <div id="seal_container">
+                <div class="input_container">
+                    <div>Upload Seal/Logo...</div>
+                    <input type="file" id="upload_seal"></input>
+                </div>
+                
+            </div>
+            <div id="typetext_container">
+                <div id="typetext" class="input_container">
+                    <div>Choose item type...</div>
+                    <select id="typetext_input" data-att="typetext">
+                        <option value="Dashboards">Dashboards</option>
+                        <option value="AGOL Feature Layer">AGOL Feature Layer</option>
+                        <option value="Open Data Feature Layer">Open Data Feature Layer</option>
+                        <option value="Portal Feature Layer">Portal Feature Layer</option>
+                        <option value="Portal Layer View">Portal Layer View</option>
+                        <option value="Portal Locator">Portal Locator</option>
+                        <option value="Web Map">Web Map</option>
+                        <option value="Web Map Application">Web Mapping Application</option>
+                        <option value="Story Maps">Story Maps</option>
+                        <option value="Vector Tiles">Vector Tiles</option>
+                        <option value="Web Experience">Web Experience</option>
+                    </select>
+                </div>
+                
+            </div>
+            <div class="subhead">2. Colors</div>
+            <div class="color_input">     
+                <div id="NAMEPLATE" class="input_container">
+                    <div>Choose color for name plate...</div>
+                    <input id="nameplatecolor" type='color'>
+                </div>
+            </div>
+            <div class="color_input">
+                <div id="TYPEPLATE" class="input_container">
+                    <div>Choose color for type plate...</div>
+                    <input id="typeplatecolor" type='color'>
+                </div>
+            </div>
+            <div id="custom_vector">
+                <span id="custom_vector_label">Custom Vector Items</span>
+            </div>
+            <br>
+            or:
+            <div id="colorscheme">
+                <div class="input_container">
+                    <div>Use generated color scheme:</div>
+                <input id="cs" type="checkbox">
+                </div>
+                
+            </div>
+            <div class="subhead">3. Thumbnail Properties</div>
+            <div>
+                <div id="organization" class="input_container">
+
+                    <div>Input Organization title...</div>
+                    <input id="organization_input" type="text" data-att="organization">
+                </div>
+               
+            </div>
+            <div id="nametext" class="input_container">
+                <div>Choose item name</div>
+                <input id="nametext_input" type="text" data-att="nametext">
+            </div>
+            <div id="datetext" class="input_container">
+                <div>Choose item date (optional)</div>
+                <select id="datetext_input" data-att="datetext">
+    
+                </select>
+            </div>
+            <div class="input_container">
+                <div>Name for png</div>
+                <input id="png_name" type="text">
+            </div>
+            <div>
+                <button id="export">Export PNG</button>
+            </div>
+            <a id="link"></a>
+        </div>
+        <div id="thumbnail_viewer">
+            <canvas id="svg_canvas" width="600" height="400"></canvas>
+        </div>
+    </div>
+   
+    
+</body>
+</html>

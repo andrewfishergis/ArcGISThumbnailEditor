@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="400"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\svg\template_icons\Thumbnail_alternate_1.png"
+   inkscape:export-xdpi="19.200001"
+   inkscape:export-ydpi="19.200001"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Thumbnail_alternate_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.92648709"
+     inkscape:cx="185.10781"
+     inkscape:cy="160.28286"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="293"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer10"
+     units="px"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="1891.0139"
+       y="73.395515"
+       width="850.72717"
+       height="250.84289"
+       id="rect23375" />
+    <rect
+       x="82.030289"
+       y="1161.3761"
+       width="536.81054"
+       height="254.9165"
+       id="rect18937" />
+    <rect
+       x="522.40338"
+       y="146.79105"
+       width="899.61165"
+       height="243.49149"
+       id="rect12889" />
+    <rect
+       x="876.42883"
+       y="509.45123"
+       width="626.02057"
+       height="142.47365"
+       id="rect8667" />
+    <rect
+       x="170.53664"
+       y="243.93216"
+       width="1152.7415"
+       height="718.84436"
+       id="rect1861" />
+  </defs>
+  <g
+     inkscape:label="BACKGROUND"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="600"
+       height="400"
+       preserveAspectRatio="none"
+       xlink:href="../images/bgimage.png"
+       id="BACKGROUND"
+       x="-1.1990409e-14"
+       y="5.7731597e-15"
+       inkscape:svg-dpi="1"
+       inkscape:label="BACKGROUND" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="TYPEPLATE">
+    <rect
+       style="fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:0.147993;paint-order:fill markers stroke"
+       id="TYPEPLATE"
+       width="105.14951"
+       height="600"
+       x="-308.19363"
+       y="-3.8146973e-06"
+       inkscape:label="typeplate"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="LAYERTEXT">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+       x="306.85922"
+       y="266.77069"
+       id="typetext"
+       inkscape:label="typetext"><tspan
+         sodipodi:role="line"
+         id="tspan86415"
+         x="306.85922"
+         y="266.77069"
+         style="font-size:48px;text-align:center;text-anchor:middle;fill:#ffffff">Item Type</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="NAMEPLATE">
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.13821;paint-order:fill markers stroke"
+       id="NAMEPLATE"
+       width="91.707047"
+       height="600"
+       x="308.19363"
+       y="-600"
+       transform="rotate(90)"
+       inkscape:label="nameplate"
+       inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\svg\template_icons\Thumbnail_alternate_2.png"
+       inkscape:export-xdpi="19.200001"
+       inkscape:export-ydpi="19.200001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="NAMETEXT">
+    <text
+       xml:space="preserve"
+       style="font-size:64px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+       x="293.84207"
+       y="373.21426"
+       id="nametext"
+       inkscape:label="nametext"><tspan
+         sodipodi:role="line"
+         id="tspan80503"
+         x="293.84207"
+         y="373.21426"
+         style="font-size:64px;fill:#ffffff">Name</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="ICON">
+    <image
+       width="41.616993"
+       height="41.616993"
+       preserveAspectRatio="none"
+       xlink:href="../icons/typeplaceholder.png"
+       id="ICON"
+       x="494.63232"
+       y="235.68608"
+       inkscape:label="icon"
+       inkscape:svg-dpi="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="SEAL">
+    <image
+       width="89.417076"
+       height="89.230728"
+       preserveAspectRatio="none"
+       xlink:href="../images/uploadseal.png"
+       id="SEAL"
+       x="39.121868"
+       y="29.366365"
+       inkscape:svg-dpi="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="ORGANIZATION">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="148.77513"
+       y="80.950928"
+       id="organization"
+       inkscape:label="organization"><tspan
+         sodipodi:role="line"
+         id="tspan89965"
+         x="148.77513"
+         y="80.950928"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold Italic';text-align:start;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Organization Name</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="YEAR">
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="60.44339"
+       y="174.85402"
+       id="datetext"
+       inkscape:label="datetext"><tspan
+         sodipodi:role="line"
+         id="tspan98617"
+         x="60.44339"
+         y="174.85402"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#2b0000;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Year</tspan></text>
+  </g>
+</svg>

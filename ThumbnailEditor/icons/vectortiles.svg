@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Icons"
+   viewBox="0 0 16 16"
+   version="1.1"
+   sodipodi:docname="vectortiles.svg"
+   inkscape:export-filename="X:\Apps\ThumbnailEditor\icons\vectortiles.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2458"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32.5"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1271"
+     inkscape:window-height="728"
+     inkscape:window-x="2874"
+     inkscape:window-y="454"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Icons" />
+  <defs
+     id="defs2423">
+    <style
+       id="style2421">.cls-1{fill:none}.cls-2{fill:#e5d255}.cls-3{fill:#6d6e71}.cls-4{fill:#ddeedb}.cls-5{fill:#f4eec8}.cls-6{fill:#f8f8f8}</style>
+  </defs>
+  <title
+     id="title2425">PlatformVectorTile16</title>
+  <path
+     class="cls-1"
+     d="M0 0h16v16H0z"
+     id="path2427" />
+  <path
+     class="cls-2"
+     d="M16 14.4s-3.2-1.6-8 0-8 0-8 0L2.133 1.6A9.762 9.762 0 0 0 8 1.6a9.762 9.762 0 0 1 5.867 0z"
+     id="path2429" />
+  <path
+     class="cls-3"
+     d="M8 3h5v5H8z"
+     id="path2431" />
+  <path
+     class="cls-4"
+     d="M9 4h3v3H9z"
+     id="path2433" />
+  <path
+     class="cls-3"
+     d="M4 7h5v5H4z"
+     id="path2435" />
+  <path
+     class="cls-4"
+     d="M5 8h3v3H5z"
+     id="path2437" />
+  <path
+     class="cls-3"
+     d="M8 7h5v5H8z"
+     id="path2439" />
+  <path
+     class="cls-4"
+     d="M9 8h3v3H9z"
+     id="path2441" />
+  <path
+     class="cls-5"
+     d="M4 3h4v4H4z"
+     id="path2443" />
+  <path
+     class="cls-3"
+     d="M2 1h5v5H2z"
+     id="path2445" />
+  <path
+     class="cls-4"
+     d="M3 2h3v3H3z"
+     id="path2447" />
+  <path
+     class="cls-6"
+     d="M5 4h1v1H5zM9 6h1v1H9zM9 8h1v1H9zM7 8h1v1H7z"
+     id="path2449" />
+  <path
+     class="cls-3"
+     d="M8 5h3v1H8zM5 3h2v1H5zM7 9h4v1H7z"
+     id="path2451" />
+  <path
+     class="cls-3"
+     d="M10 6h1v4h-1zM6 7h1v3H6zM4 3h1v3H4z"
+     id="path2453" />
+  <path
+     class="cls-3"
+     d="M4 3h1v3H4z"
+     id="path2455" />
+</svg>

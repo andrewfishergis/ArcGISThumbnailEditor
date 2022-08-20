@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200mm"
+   height="800mm"
+   viewBox="0 0 1200 800"
+   version="1.1"
+   id="svg19772"
+   inkscape:export-filename="C:\Users\c10786\source\repos\ThumbnailEditor\images\grayblue.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="fracturetemplate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19774"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="1200mm"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="4865.7785"
+     inkscape:cy="1250.6951"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2638"
+     inkscape:window-y="111"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs19769" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect19798"
+       style="fill:#b0d7ff;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="M 3531.25 2450 L 3437.2246 3031.25 L 4555.1777 3031.25 L 4555.1777 1653.0742 L 3531.25 2450 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20204"
+       style="fill:#124848;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 645.23438 1546.7969 L 5.1777344 975.66797 L 5.1777344 1776.3105 L 645.23438 1546.7969 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20202"
+       style="fill:#eae8ff;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="M 2731.25 1925 L 5.1777344 245.24219 L 5.1777344 975.66797 L 645.23438 1546.7969 L 2731.25 1925 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20200"
+       style="fill:#d8d5db;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="M 2731.25 1925 L 645.23438 1546.7969 L 5.1777344 1776.3105 L 5.1777344 3031.25 L 1418.9336 3031.25 L 2731.25 1925 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20198"
+       style="fill:#124848;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 2731.25 1925 L 1418.9336 3031.25 L 3437.2246 3031.25 L 3531.25 2450 L 2731.25 1925 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20196"
+       style="fill:#124848;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke"
+       d="M 3350.1035 -6.25 L 5.1777344 -6.25 L 5.1777344 245.24219 L 2731.25 1925 L 3350.1035 -6.25 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path20194"
+       style="fill:#adacb5;stroke-width:1.052;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1"
+       d="M 3350.1035 -6.25 L 2731.25 1925 L 3531.25 2450 L 4555.1777 1653.0742 L 4555.1777 -6.25 L 3350.1035 -6.25 z "
+       transform="scale(0.26458333)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="lines">
+    <path
+       id="path19843-7"
+       style="fill:none;stroke:#fbf3f3;stroke-width:26.4583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.71842,409.25646 -231.5222,83.02059 m 783.447,17.04586 L 170.71842,409.25646 -57.29588,205.79753 M 934.30992,648.22916 1284.8828,375.3776 m -562.23958,133.94531 211.6667,138.90625 -36.3802,224.89583 M 722.64322,509.32291 914.46612,-89.296874 M -74.41408,18.1901 722.64322,509.32291 322.46092,846.66666" />
+  </g>
+</svg>

@@ -1,0 +1,329 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-size: 12px;
+}
+
+body {
+    display: grid;
+    grid-template-rows: 50px 1fr;
+    font-family: 'Segoe UI';
+    font-size: 1rem;
+}
+
+#content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    overflow: auto;
+}
+
+#header {
+    height: 100%;
+    background-color: rgb(31, 31, 85);
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 10px;
+}
+
+#header > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#thumbnail_viewer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#options {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: rgb(228, 228, 228);
+    overflow: auto;
+}
+
+#options > div {
+    margin-top: .75rem;
+}
+
+.inactive {
+    color: gray;
+}
+
+.subhead {
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.input_container {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0 1rem 0;
+}
+
+select.icon-menu option {
+    background-repeat:no-repeat;
+    background-position:bottom left;
+    padding-left:30px;
+}
+
+#bg_container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#custom_bg {
+    position: relative;
+    display: grid;
+    grid-template-columns: .85fr .15fr;
+    width: 30%;
+    height: 2rem;
+    background-color: white;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin: .5rem 0 .5rem 0;
+}
+
+#custom_bg > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 75%;
+}
+
+#custom_bg img {
+    max-height: 30%;
+    max-width: 30%
+}
+
+#custom_bg:hover {
+    background-color: lightgrey;
+    cursor: pointer;
+}
+
+#bg_chooser {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 40%;
+    height: auto;
+    max-height: 500px;
+    width: 30%;
+    left: 0;
+    right: 0;
+    border: 2px solid #394a6d;
+    border-radius: 5px;
+    border-top: 0;
+    background: #fff;
+    transition: all .5s;
+    opacity: 0;
+    z-index: 2;
+    overflow: auto;
+}
+
+.custom_option {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 1;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.custom_option:hover {
+    background-color: rgb(179, 219, 219);
+    cursor: pointer;
+}
+
+.resize_image {
+    max-width: 100%;
+    max-height: 1;
+}
+
+.resize_image:hover {
+    cursor: pointer;
+}
+
+#custom_vector {
+    padding: .75rem;
+    margin: 1.5rem;
+    background-color: white;
+    border-radius: 5px;
+    max-height: 100px;
+    min-height: 3rem;
+    overflow: auto;
+}
+
+#custom_vector > div {
+    margin-top: .75rem;
+}
+
+#custom_vector_label {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+input[type="file"] {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#choose_template {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+#github {
+    display: flex;
+    justify-content: flex-end !important;
+    align-items: center;
+    font-size: 1.25rem;
+    margin-right: 2rem;
+}
+
+#github >div::after {
+    content: url('/icons/github.png')
+}
+
+#github:hover {
+    cursor: pointer;
+    color: lightblue;
+}
+
+/*Custom styling on scrollbars and inputs*/
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #1f1f55 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #1f1f55;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+
+  }
+
+input[type='text'] {
+    border: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #ffffff;
+    padding: 12px;
+    border-radius: 3px;
+  }
+
+select  {
+    border: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #ffffff;
+    padding: 1rem;
+    border-radius: 3px;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 5px;
+}
+
+  /*Intro Modal*/
+
+  #intro-modal {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: fixed;
+      z-index: 1;
+      left:0;
+      top:0;
+      width:100%;
+      height:100%;
+      overflow: auto;
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+
+  #modal-content {
+      display: grid;
+      grid-template-rows: 10% auto 1fr;
+      background-color: white;
+      padding: 2rem;
+      height: 50%;
+      width: 50%;
+  }
+
+  #welcome {
+      display: flex;
+      justify-content: center;
+      font-size: 2rem;
+      color:rgb(31, 31, 85);
+      font-weight: 500;
+  }
+
+  #instructions {
+      padding: 2rem;
+      font-size: 1.5 rem;
+  }
+
+  #choose_template_modal {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+  }
+
+  .template_option {
+      pointer-events: none;
+  }
+
+  .template_option_container {
+      border: 2px solid transparent;
+      margin: 2rem;
+      padding: 1rem;
+  }
+
+  .template_option_container:hover {
+      border: 2px solid rgb(31, 31, 85);
+      cursor: pointer;
+  }
